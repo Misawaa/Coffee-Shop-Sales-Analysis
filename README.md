@@ -18,6 +18,8 @@
 This project explores real-world coffee shop sales data using Microsoft Excel to uncover key insights into sales performance, profitability, seasonal demand, and location-based trends.
 The goal was to turn raw data into actionable business insights that help optimize store operations and improve overall revenue.
 
+
+
 ### Data Sources
 
 Coffee Shop Sales Data: The primary dataset used for this analysis is the "coffee_shop_sales.xlsx file" containing transaction records for multiple coffee shop locations, including product category location data.
