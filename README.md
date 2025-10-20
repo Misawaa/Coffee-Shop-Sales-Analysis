@@ -15,11 +15,14 @@
 
 ### Project Overview 
 
+
 This project explores real-world coffee shop sales data using Microsoft Excel to uncover key insights into sales performance, profitability, seasonal demand, and location-based trends.
 The goal was to turn raw data into actionable business insights that help optimize store operations and improve overall revenue.
 
-<img width="346" height="268" alt="Annotation 2025-10-17 132621" src="https://github.com/user-attachments/assets/f03959e7-46f2-4ec1-b943-7347dc76dbd9" />
-<img width="363" height="321" alt="Annotation 2025-10-17 132532" src="https://github.com/user-attachments/assets/ba64b508-1123-4920-86d1-8b3de39ecce7" />
+
+
+<img width="346" height="268" alt="Annotation 2025-10-17 132621" src="https://github.com/user-attachments/assets/17aaac5e-7eb0-450e-a0c1-4f6ce65a9f57" />
+
 
 
 ### Data Sources
@@ -61,6 +64,13 @@ EDA involved exploring coffee shop sales data to answer key questions,such as :
 - What is the profitability distribution across different locations and product categories?
 - How do customer preferences shift over time or by location?
 - Are there any patterns or correlations between product type, sales time, and revenue?
+
+
+
+<img width="363" height="321" alt="Annotation 2025-10-17 132532" src="https://github.com/user-attachments/assets/743633a6-d42a-4f30-864b-84e0417c40a8" />
+
+<img width="355" height="258" alt="Annotation 2025-10-20 112613" src="https://github.com/user-attachments/assets/129acc53-25f2-4c4c-8e8a-d715240e9ee1" />
+
 
 
 ### Data Analysis
