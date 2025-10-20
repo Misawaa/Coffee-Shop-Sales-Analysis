@@ -18,6 +18,8 @@
 This project explores real-world coffee shop sales data using Microsoft Excel to uncover key insights into sales performance, profitability, seasonal demand, and location-based trends.
 The goal was to turn raw data into actionable business insights that help optimize store operations and improve overall revenue.
 
+<img width="346" height="268" alt="Annotation 2025-10-17 132621" src="https://github.com/user-attachments/assets/f03959e7-46f2-4ec1-b943-7347dc76dbd9" />
+<img width="363" height="321" alt="Annotation 2025-10-17 132532" src="https://github.com/user-attachments/assets/ba64b508-1123-4920-86d1-8b3de39ecce7" />
 
 
 ### Data Sources
